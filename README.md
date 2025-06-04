@@ -1,2 +1,2 @@
 # Desafio_Titanic_Kaggle
-Desafio realizado para a matéria da universidade, para a matéria de Tópicos de Big Data em Pyton.
+Desafio realizado para a matéria da universidade Tópicos de Big Data em Pyton.
